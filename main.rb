@@ -5,3 +5,7 @@ end
 def anothermethod
   puts "morecake"
 end
+
+def wow
+  puts "wow"
+end
